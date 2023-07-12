@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/bin/sh
 if ! [ $USER = "root" ]
 then
 		echo "You must be rooted"
